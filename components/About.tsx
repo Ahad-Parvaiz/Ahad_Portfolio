@@ -107,8 +107,8 @@ const About: React.FC = () => {
                         </ul>
                     </div>
                     
-                    <a 
-                        href="/Ahad_Parvaiz_Resume.pdf"
+                   <a 
+                        href="https://drive.google.com/file/d/18sXKAllubBSDLod2zby-OXtKJtxl8rJS/view?usp=sharing" target="_blank" rel="noopener noreferrer"
                         download
                         className="inline-block mt-6 ml-4 font-fira text-green-400 border border-green-400 px-4 py-2 hover:bg-green-400 hover:text-black transition-colors"
                     >
